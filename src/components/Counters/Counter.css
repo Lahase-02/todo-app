@@ -1,0 +1,14 @@
+.counterButton {
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:100px;
+    margin:10px;
+    color: rgb(91, 37, 185);
+    padding: 15px;
+    border-radius: 40px;
+    border-color: black;
+    border-width: 5px;
+};
+.resetButton {
+    background-color: #824f8c;
+}
